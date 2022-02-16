@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: dcd09d0a-aa68-271a-cbbd-85c843ad7760
 ---
@@ -202,7 +204,7 @@ KEY DATES
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 1
 {{< tdclose >}}
 {{< tdopen >}}
@@ -235,7 +237,7 @@ Energy basics (cont.)
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 2
 {{< tdclose >}}
 {{< tdopen >}}
@@ -283,7 +285,7 @@ Draft of team code of conduct due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 3
 {{< tdclose >}}
 {{< tdopen >}}
@@ -339,7 +341,7 @@ Thermodynamics practice problems due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 4
 {{< tdclose >}}
 {{< tdopen >}}
@@ -387,7 +389,7 @@ Building energy
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 5
 {{< tdclose >}}
 {{< tdopen >}}
@@ -441,7 +443,7 @@ Reflection paper #1 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 6
 {{< tdclose >}}
 {{< tdopen >}}
@@ -495,7 +497,7 @@ Local energy systems - MIT
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 7
 {{< tdclose >}}
 {{< tdopen >}}
@@ -543,7 +545,7 @@ Project work
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 8
 {{< tdclose >}}
 {{< tdopen >}}
@@ -591,7 +593,7 @@ Reflection paper #2 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 9
 {{< tdclose >}}
 {{< tdopen >}}
@@ -639,7 +641,7 @@ Oral briefing; Project work
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 10
 {{< tdclose >}}
 {{< tdopen >}}
@@ -672,7 +674,7 @@ Reflection paper #3 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 11
 {{< tdclose >}}
 {{< tdopen >}}
@@ -720,7 +722,7 @@ Oral briefing; Project work
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 12
 {{< tdclose >}}
 {{< tdopen >}}
@@ -768,7 +770,7 @@ Draft of final report due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 13
 {{< tdclose >}}
 {{< tdopen >}}
@@ -816,7 +818,7 @@ Public presentations
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 14
 {{< tdclose >}}
 {{< tdopen >}}
