@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 52d49917-1041-23ff-2845-a3cc926b18d1
 resourcetype: Document
 title: crls_exec_sum.pdf
 uid: f3a0d0b6-dc5a-5d4e-866d-b7cfb8088aac

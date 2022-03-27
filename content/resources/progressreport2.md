@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 43f286df-88a8-337c-5bfd-d7fb8d815aa8
 resourcetype: Document
 title: progressreport2.pdf
 uid: df6fedb3-275e-b901-d199-e1b7991108c3

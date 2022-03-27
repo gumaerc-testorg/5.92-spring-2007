@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 52d49917-1041-23ff-2845-a3cc926b18d1
 resourcetype: Document
 title: wind_exec_sum.pdf
 uid: 29490969-92e7-ea70-0390-d28e29db33a4

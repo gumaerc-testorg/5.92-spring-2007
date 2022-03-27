@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d07d4c63-af56-07ae-fe6c-aea9a8684067
 resourcetype: Document
 title: engineeringecon.pdf
 uid: 3197d694-2f7b-89d3-bc04-37c78c64b07b

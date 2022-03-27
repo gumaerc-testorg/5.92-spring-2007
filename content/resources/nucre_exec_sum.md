@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 52d49917-1041-23ff-2845-a3cc926b18d1
 resourcetype: Document
 title: nucre_exec_sum.pdf
 uid: a1d88cdf-4a52-3ab3-4cd5-dc7eb9ba5993

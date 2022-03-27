@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d07d4c63-af56-07ae-fe6c-aea9a8684067
 resourcetype: Document
 title: reduction_strats.pdf
 uid: cdd6279a-e933-8623-57b2-3b858365955d

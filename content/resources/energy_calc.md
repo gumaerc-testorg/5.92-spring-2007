@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d07d4c63-af56-07ae-fe6c-aea9a8684067
 resourcetype: Document
 title: energy_calc.pdf
 uid: 48835077-12c7-5e5e-ad59-6eca2ac6c209

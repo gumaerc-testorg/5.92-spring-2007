@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 43f286df-88a8-337c-5bfd-d7fb8d815aa8
 resourcetype: Document
 title: orl_progrs_rprt.pdf
 uid: babe8d3f-0972-f42d-c637-f19977c692f0

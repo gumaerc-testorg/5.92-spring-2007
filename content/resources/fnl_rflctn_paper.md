@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 43f286df-88a8-337c-5bfd-d7fb8d815aa8
 resourcetype: Document
 title: fnl_rflctn_paper.pdf
 uid: 421b936c-0440-c78e-615f-b2e6cd0ac850

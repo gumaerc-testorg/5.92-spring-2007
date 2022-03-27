@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 43f286df-88a8-337c-5bfd-d7fb8d815aa8
 resourcetype: Document
 title: reflectionpaper1.pdf
 uid: 0ffb96b4-489a-1cb8-f372-aa3afc1f8fd0

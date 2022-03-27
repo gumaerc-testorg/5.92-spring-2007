@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 43f286df-88a8-337c-5bfd-d7fb8d815aa8
 resourcetype: Document
 title: fnl_reprt_rubric.pdf
 uid: 9fdd8020-a15e-4779-d623-ea0fddfab961

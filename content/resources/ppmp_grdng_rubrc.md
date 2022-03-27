@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 43f286df-88a8-337c-5bfd-d7fb8d815aa8
 resourcetype: Document
 title: ppmp_grdng_rubrc.pdf
 uid: 1cffde48-2595-77aa-3f63-6c4953ffa4ba

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 52d49917-1041-23ff-2845-a3cc926b18d1
 resourcetype: Document
 title: project_list.pdf
 uid: fcc7ceab-f411-0060-f4c8-ddb820c0dfc9
