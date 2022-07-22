@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/5-92-energy-environment-and-society-spring-2007/b9b10ad5f780985b4fd8a76cd6e3419e_renewableenergy.pdf
+file: /courses/5-92-energy-environment-and-society-spring-2007/b9b10ad5f780985b4fd8a76cd6e3419e_renewableenergy.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

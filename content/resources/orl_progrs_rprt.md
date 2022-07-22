@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: Instructions for the oral progress briefing assignment.
-file: /media/courses/5-92-energy-environment-and-society-spring-2007/babe8d3f0972f42dc637f19977c692f0_orl_progrs_rprt.pdf
+file: /courses/5-92-energy-environment-and-society-spring-2007/babe8d3f0972f42dc637f19977c692f0_orl_progrs_rprt.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -13,3 +14,4 @@ resourcetype: Document
 title: orl_progrs_rprt.pdf
 uid: babe8d3f-0972-f42d-c637-f19977c692f0
 ---
+Instructions for the oral progress briefing assignment.
