@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource discusses about energy sources and conversion, rules and
   efficiencies, devices, systems and questions and projects.
-file: /courses/5-92-energy-environment-and-society-spring-2007/e1a520cfab1954b1669e88bd1ef9f1b9_conversion.pdf
+file: /ol-ocw-studio-app/courses/5-92-energy-environment-and-society-spring-2007/e1a520cfab1954b1669e88bd1ef9f1b9_conversion.pdf
+file_size: 239190
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

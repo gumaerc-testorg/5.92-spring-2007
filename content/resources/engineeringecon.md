@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource discusses about what is engineering economics and methods
   to compare design alternatives.
-file: /courses/5-92-energy-environment-and-society-spring-2007/3197d6942f7b89d3bc0437c78c64b07b_engineeringecon.pdf
+file: /ol-ocw-studio-app/courses/5-92-energy-environment-and-society-spring-2007/3197d6942f7b89d3bc0437c78c64b07b_engineeringecon.pdf
+file_size: 470854
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

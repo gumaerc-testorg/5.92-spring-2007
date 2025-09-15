@@ -2,7 +2,8 @@
 content_type: resource
 description: 'This resource discusses about electrochemistry and climate change and
   electrochemistry: noble origins bright future.'
-file: /courses/5-92-energy-environment-and-society-spring-2007/10a7d0f409b57ef07be4e50745f6eba6_sadoway.pdf
+file: /ol-ocw-studio-app/courses/5-92-energy-environment-and-society-spring-2007/10a7d0f409b57ef07be4e50745f6eba6_sadoway.pdf
+file_size: 2016803
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

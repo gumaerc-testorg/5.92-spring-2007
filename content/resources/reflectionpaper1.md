@@ -2,7 +2,8 @@
 content_type: resource
 description: Instructions for reflection paper 1, about your impact on energy and
   the environment.
-file: /courses/5-92-energy-environment-and-society-spring-2007/0ffb96b4489a1cb8f372aa3afc1f8fd0_reflectionpaper1.pdf
+file: /ol-ocw-studio-app/courses/5-92-energy-environment-and-society-spring-2007/0ffb96b4489a1cb8f372aa3afc1f8fd0_reflectionpaper1.pdf
+file_size: 10315
 file_type: application/pdf
 learning_resource_types:
 - Assignments

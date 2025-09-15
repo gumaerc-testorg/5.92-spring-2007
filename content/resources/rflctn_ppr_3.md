@@ -2,7 +2,8 @@
 content_type: resource
 description: Instructions for a reflection paper to apply class content to developing
   team projects.
-file: /courses/5-92-energy-environment-and-society-spring-2007/f0f1a9ba7b0b2f397e518bc17fdb2a70_rflctn_ppr_3.pdf
+file: /ol-ocw-studio-app/courses/5-92-energy-environment-and-society-spring-2007/f0f1a9ba7b0b2f397e518bc17fdb2a70_rflctn_ppr_3.pdf
+file_size: 11942
 file_type: application/pdf
 learning_resource_types:
 - Assignments

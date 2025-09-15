@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Handout for Lecture Session 1.2 on energy basics (continued).
-file: /courses/5-92-energy-environment-and-society-spring-2007/b668450da51a14fe9111de59703e8170_session_1_2.pdf
+file: /ol-ocw-studio-app/courses/5-92-energy-environment-and-society-spring-2007/b668450da51a14fe9111de59703e8170_session_1_2.pdf
+file_size: 15663
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

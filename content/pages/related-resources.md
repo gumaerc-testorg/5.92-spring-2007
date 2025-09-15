@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides links to related resources for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -23,7 +24,7 @@ MIT Energy Initiative (MITEI) [Education Activities](http://web.mit.edu/mitei/ed
 
 [United Nations Intergovermnental Panel on Climate Change](http://www.ipcc.ch/)
 
-[22.081J / 2.650J / 10.291J / 1.818J / 2.65J / 10.391J / 11.371J / 22.811J / ESD.166J](/courses/22-081j-introduction-to-sustainable-energy-fall-2010/) Introduction to Sustainable Energy
+[22.081J / 2.650J / 10.291J / 1.818J / 2.65J / 10.391J / 11.371J / 22.811J / ESD.166J](/courses/22-081j-introduction-to-sustainable-energy-fall-2010) Introduction to Sustainable Energy
 
 Class Links
 -----------
@@ -34,7 +35,7 @@ Class Links
 
 [Solar Savings Estimator](http://www.recsolar.com/solar-savings-estimator)
 
-Initial Report of the Energy Research Council (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.4 MB](http://web.mit.edu/mitei/about/erc-report-final.pdf))
+Initial Report of the Energy Research Council ([PDF - 2.4 MB](http://web.mit.edu/mitei/about/erc-report-final.pdf))
 
 [Energy Information Administration](http://www.eia.doe.gov/)
 

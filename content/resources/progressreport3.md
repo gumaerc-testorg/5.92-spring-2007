@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Instructions for writing progress reports for student projects.
-file: /courses/5-92-energy-environment-and-society-spring-2007/2aa66e0554e25954e29ad5b661e0c905_progressreport3.pdf
+file: /ol-ocw-studio-app/courses/5-92-energy-environment-and-society-spring-2007/2aa66e0554e25954e29ad5b661e0c905_progressreport3.pdf
+file_size: 9685
 file_type: application/pdf
 learning_resource_types:
 - Assignments

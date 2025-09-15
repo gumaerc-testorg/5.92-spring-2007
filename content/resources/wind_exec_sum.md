@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: 'Example of student work: Team Wind Executive Summary.'
-file: /courses/5-92-energy-environment-and-society-spring-2007/2949096992e7ea700390d28e29db33a4_wind_exec_sum.pdf
+file: /ol-ocw-studio-app/courses/5-92-energy-environment-and-society-spring-2007/2949096992e7ea700390d28e29db33a4_wind_exec_sum.pdf
+file_size: 420616
 file_type: application/pdf
 learning_resource_types:
 - Projects

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information about the individual and team assignments
+  for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -39,11 +41,11 @@ Periodically throughout the class, you will write brief progress reports to refl
 {{< tdopen >}}
 
 
-Progress report 1 ([PDF]({{< baseurl >}}/resources/progressreport1))
+Progress report 1 ({{% resource_link aea36777-00d3-85b1-2380-ae83dee41f49 "PDF" %}})
 
-Progress report 2 ([PDF]({{< baseurl >}}/resources/progressreport2))
+Progress report 2 ({{% resource_link df6fedb3-275e-b901-d199-e1b7991108c3 "PDF" %}})
 
-Progress report 3 ([PDF]({{< baseurl >}}/resources/progressreport3))
+Progress report 3 ({{% resource_link 2aa66e05-54e2-5954-e29a-d5b661e0c905 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -57,7 +59,7 @@ Oral project briefings
 During weeks #8, #9, #10, and #11, the Friday session of class will begin with oral project briefings. One student from each team will make a ten-minute presentation updating the full class on progress to-date on their team project. Each student in the class will make one ten-minute presentation over the course of the semester. You will be required to use Microsoft® PowerPoint®; other visual aids, such as handouts, will be optional. Students making an Oral Briefing will not have a written progress report due that day. A practicum on public speaking and guidance on using Microsoft® PowerPoint® will precede these briefings.
 {{< tdclose >}}
 {{< tdopen >}}
-Oral progress report ([PDF]({{< baseurl >}}/resources/orl_progrs_rprt))
+Oral progress report ({{% resource_link babe8d3f-0972-f42d-c637-f19977c692f0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -71,11 +73,11 @@ You will apply class content to your developing team projects in three papers du
 {{< tdopen >}}
 
 
-Reflection paper 1 ([PDF]({{< baseurl >}}/resources/reflectionpaper1))
+Reflection paper 1 ({{% resource_link 0ffb96b4-489a-1cb8-f372-aa3afc1f8fd0 "PDF" %}})
 
-Reflection paper 2 ([PDF]({{< baseurl >}}/resources/rflctn_ppr_2))
+Reflection paper 2 ({{% resource_link 1be854e0-8aa1-48d3-8ec5-70abc93e3545 "PDF" %}})
 
-Reflection paper 3 ([PDF]({{< baseurl >}}/resources/rflctn_ppr_3))
+Reflection paper 3 ({{% resource_link f0f1a9ba-7b0b-2f39-7e51-8bc17fdb2a70 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -163,9 +165,9 @@ This assignment will begin during week three by submitting a rough outline to TA
 {{< tdopen >}}
 
 
-PPMP style ([PDF]({{< baseurl >}}/resources/592style))
+PPMP style ({{% resource_link 959e8b01-73e4-fd3b-c764-1981f80ce56a "PDF" %}})
 
-PPMP grading rubric ([PDF]({{< baseurl >}}/resources/ppmp_grdng_rubrc))
+PPMP grading rubric ({{% resource_link 1cffde48-2595-77aa-3f63-6c4953ffa4ba "PDF" %}})
 
 
 {{< tdclose >}}
@@ -181,9 +183,9 @@ The final project report, a 10-12 page (2000-3600 words) assignment, is a techni
 {{< tdopen >}}
 
 
-Final report style ([PDF]({{< baseurl >}}/resources/592style))
+Final report style ({{% resource_link 959e8b01-73e4-fd3b-c764-1981f80ce56a "PDF" %}})
 
-Final report rubric ([PDF]({{< baseurl >}}/resources/fnl_reprt_rubric))
+Final report rubric ({{% resource_link 9fdd8020-a15e-4779-d623-ea0fddfab961 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -197,7 +199,7 @@ Final oral project presentation
 The team will be responsible for the final presentation for the class, which will be made to a public audience at MIT (during regular class time) including community stakeholders and interested members of the MIT and local communities. Each team will make a 10-15 minute presentation using Microsoft® PowerPoint® and field questions and discussion for 5 minutes. Students will prepare for this final presentation by giving a "dry-run" of their presentation in class at the end of week #12, and then by participating a full dress rehearsal spread out over two class sessions to facilitate discussion and critique among the full class. The dress rehearsals will be videotaped, and each team will review and discuss the videotape with one or two members of the instructional team. The final presentation will receive a team grade.
 {{< tdclose >}}
 {{< tdopen >}}
-Final presentation rubric ([PDF]({{< baseurl >}}/resources/fnl_prsntn_rubrc))
+Final presentation rubric ({{% resource_link bbab5fe6-df4e-1c0f-3b71-d73888be6723 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Lecture supplement with a tool for calculating personal energy consumption.
-file: /courses/5-92-energy-environment-and-society-spring-2007/4883507712c75e5ead596eca2ac6c209_energy_calc.pdf
+file: /ol-ocw-studio-app/courses/5-92-energy-environment-and-society-spring-2007/4883507712c75e5ead596eca2ac6c209_energy_calc.pdf
+file_size: 85550
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

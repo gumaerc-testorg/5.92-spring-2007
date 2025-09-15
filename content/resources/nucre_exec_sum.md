@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: 'Student project results: nuclear reactor team executive summary.'
-file: /courses/5-92-energy-environment-and-society-spring-2007/a1d88cdf4a523ab34cd5dc7eb9ba5993_nucre_exec_sum.pdf
+file: /ol-ocw-studio-app/courses/5-92-energy-environment-and-society-spring-2007/a1d88cdf4a523ab34cd5dc7eb9ba5993_nucre_exec_sum.pdf
+file_size: 577525
 file_type: application/pdf
 learning_resource_types:
 - Projects

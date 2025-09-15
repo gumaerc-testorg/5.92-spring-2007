@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Grading criteria and standards for the final team presentation.
-file: /courses/5-92-energy-environment-and-society-spring-2007/bbab5fe6df4e1c0f3b71d73888be6723_fnl_prsntn_rubrc.pdf
+file: /ol-ocw-studio-app/courses/5-92-energy-environment-and-society-spring-2007/bbab5fe6df4e1c0f3b71d73888be6723_fnl_prsntn_rubrc.pdf
+file_size: 77137
 file_type: application/pdf
 learning_resource_types:
 - Assignments

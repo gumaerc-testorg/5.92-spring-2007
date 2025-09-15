@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /courses/5-92-energy-environment-and-society-spring-2007/533dfc328beca2416045b18c870ae196_solarvolt_tech.pdf
+file: /ol-ocw-studio-app/courses/5-92-energy-environment-and-society-spring-2007/533dfc328beca2416045b18c870ae196_solarvolt_tech.pdf
+file_size: 539224
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

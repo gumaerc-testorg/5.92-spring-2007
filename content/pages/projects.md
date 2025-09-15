@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information about student projects for the course,
+  project options, and executive summaries from each of the final reports.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -7,7 +9,7 @@ title: Projects
 uid: 52d49917-1041-23ff-2845-a3cc926b18d1
 ---
 
-Students worked in groups of 4-5 on the following projects. They were given several project options which they selected from based on their interests ([PDF]({{< baseurl >}}/resources/project_list)).
+Students worked in groups of 4-5 on the following projects. They were given several project options which they selected from based on their interests ({{% resource_link fcc7ceab-f411-0060-f4c8-ddb820c0dfc9 "PDF" %}}).
 
 Below are the descriptions of the student projects, as well as the executive summaries from each of the final reports.
 
@@ -20,7 +22,7 @@ CRLS is interested in aiding the City's goal by adding renewable energy capacity
 
 The MIT student team will undertake a systematic assessment of the size of renewable energy resources on the CLRS site. Solar thermal, solar photovoltaic, roof-mounted wind, and other feasible renewable sources will be compared on a levelized lifetime cost and compared to traditional sources. Modifications to roof design necessary to support the weight of equipment and altered water flow, snow accumulation, and heat transport caused by the presence of generation capacity will be considered. The report will also discuss accounting of externalities such as roof damage, aesthetics, noise, and the community commitment to GHG reductions.
 
-Team CRLS Executive Summary ([PDF]({{< baseurl >}}/resources/crls_exec_sum))
+Team CRLS Executive Summary ({{% resource_link f3a0d0b6-dc5a-5d4e-866d-b7cfb8088aac "PDF" %}})
 
 Team Members: Sara Barnowski, Katrina Ellison, Alex Pak, Alex Rubino, Cecilia Scott, and advisor Radu Raduta
 
@@ -35,7 +37,7 @@ The windmill used to be the icon of distributed generation, and recently wind po
 
 The student team will create a report on the suitability of sites around campus for the installation of wind turbines. This will include an assessment of the overall wind resource at that site, calculation of the levelized busbar cost of electricity over the lifetime of the installation, discussion of externalities like noise, beauty, and permitting at each site, and comparison to other energy resource options available at that location (including solar and fossil generation). Students will have to perform on-site measurements of the wind and make comparisons to climatological data to determine the overall size of the resource. Equipment and expertise from a number of outside agencies, such as Second Wind, will aid in the development of this data set.
 
-Team Wind Executive Summary ([PDF]({{< baseurl >}}/resources/wind_exec_sum))
+Team Wind Executive Summary ({{% resource_link 29490969-92e7-ea70-0390-d28e29db33a4 "PDF" %}})
 
 Team Members: Richard Bates, Samantha Fox, Katie McCusker, Katie Pesce, and adivsor Dan Wesolowski
 
@@ -48,6 +50,6 @@ The MIT Research Reactor is a 5 MW reactor that operates 24/7 for five week peri
 
 The MIT student team will undertake a systematic assessment of the availability and capacity of waste heat from the MIT nuclear reactor. They will identify potential uses for that heat and assess and compare the economic viability of those options. Costs will be calculated and compared to savings incurred by decommissioning of the current cooling tower on site at the MIT reactor and displacement of current heat sources. Heat transportation, construction and contingency costs will be included in the assessment. The report will also discuss accounting of externalities such as aesthetics, contamination and community commitment to GHG reductions.
 
-Nuclear Reactor Team Executive Summary ([PDF]({{< baseurl >}}/resources/nucre_exec_sum))
+Nuclear Reactor Team Executive Summary ({{% resource_link a1d88cdf-4a52-3ab3-4cd5-dc7eb9ba5993 "PDF" %}})
 
 Team Members: Ethan Bates, Zach Bjørnson, Julia Roberts, Josh Velson, and advisor Hidda Thorsteinsson

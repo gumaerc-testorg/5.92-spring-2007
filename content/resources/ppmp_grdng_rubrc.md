@@ -2,7 +2,8 @@
 content_type: resource
 description: Grading criteria and standards for the Project Proposal and Management
   Plan.
-file: /courses/5-92-energy-environment-and-society-spring-2007/1cffde48259577aa3f636c4953ffa4ba_ppmp_grdng_rubrc.pdf
+file: /ol-ocw-studio-app/courses/5-92-energy-environment-and-society-spring-2007/1cffde48259577aa3f636c4953ffa4ba_ppmp_grdng_rubrc.pdf
+file_size: 75685
 file_type: application/pdf
 learning_resource_types:
 - Assignments

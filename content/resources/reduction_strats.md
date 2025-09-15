@@ -4,7 +4,8 @@ description: 'This resource discusses about current U.S. transportation energy s
   vehicle technology and fuels: last 25 years and prior MIT analyses of future automotive
 
   technologies.'
-file: /courses/5-92-energy-environment-and-society-spring-2007/cdd6279ae933862357b23b858365955d_reduction_strats.pdf
+file: /ol-ocw-studio-app/courses/5-92-energy-environment-and-society-spring-2007/cdd6279ae933862357b23b858365955d_reduction_strats.pdf
+file_size: 352998
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

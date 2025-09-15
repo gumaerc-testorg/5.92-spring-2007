@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource discusses about US energy consumption, U.S. buildings,
   and U.S. electricity production energy sources 2003.
-file: /courses/5-92-energy-environment-and-society-spring-2007/e49af9a578e609f11d115415123aa236_buildings.pdf
+file: /ol-ocw-studio-app/courses/5-92-energy-environment-and-society-spring-2007/e49af9a578e609f11d115415123aa236_buildings.pdf
+file_size: 536109
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,7 +2,8 @@
 content_type: resource
 description: 'Student project results: Team Cambridge Rindge and Latin High School
   (CRLS) Executive Summary.'
-file: /courses/5-92-energy-environment-and-society-spring-2007/f3a0d0b6dc5a5d4e866db7cfb8088aac_crls_exec_sum.pdf
+file: /ol-ocw-studio-app/courses/5-92-energy-environment-and-society-spring-2007/f3a0d0b6dc5a5d4e866db7cfb8088aac_crls_exec_sum.pdf
+file_size: 382265
 file_type: application/pdf
 learning_resource_types:
 - Projects

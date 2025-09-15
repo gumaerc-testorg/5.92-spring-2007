@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: A list of potential topics for the team project.
-file: /courses/5-92-energy-environment-and-society-spring-2007/fcc7ceabf4110060f4c8ddb820c0dfc9_project_list.pdf
+file: /ol-ocw-studio-app/courses/5-92-energy-environment-and-society-spring-2007/fcc7ceabf4110060f4c8ddb820c0dfc9_project_list.pdf
+file_size: 35355
 file_type: application/pdf
 learning_resource_types:
 - Projects

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides a selection of lecture notes for the course and
+  information on lecture topics and lecturers. Many of the lectures were given by
+  guest speakers and the material for these lectures is not available to OCW users.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -59,9 +62,9 @@ Introductions/energy basics
 {{< tdopen >}}
 
 
-Session 1.1 handout ([PDF]({{< baseurl >}}/resources/session_1_1))
+Session 1.1 handout ({{% resource_link a9367a42-7abf-e513-d8f8-80b9bcee4a97 "PDF" %}})
 
-General energy picture ([PDF]({{< baseurl >}}/resources/ees_gen_enrg_pic))
+General energy picture ({{% resource_link b41ea003-3db5-0280-f5d3-3e9e4933c62e "PDF" %}})
 
 
 {{< tdclose >}}
@@ -83,11 +86,11 @@ Energy basics (cont.)
 {{< tdopen >}}
 
 
-Session 1.2 handout ([PDF]({{< baseurl >}}/resources/session_1_2))
+Session 1.2 handout ({{% resource_link b668450d-a51a-14fe-9111-de59703e8170 "PDF" %}})
 
-Energy calculator guidance ([PDF]({{< baseurl >}}/resources/energy_calc_guid))
+Energy calculator guidance ({{% resource_link 6ff8038e-9920-93b5-6c99-5d991264cb12 "PDF" %}})
 
-Personal energy calculator ([PDF]({{< baseurl >}}/resources/energy_calc))
+Personal energy calculator ({{% resource_link 48835077-12c7-5e5e-ad59-6eca2ac6c209 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -128,7 +131,7 @@ Energy basics (cont.)
 Energy basics (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-Thermodynamics handout ([PDF]({{< baseurl >}}/resources/session_1_4))
+Thermodynamics handout ({{% resource_link c4b0d659-6c72-8880-91b9-5f979d2c75b8 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Jeffery Steinfeld
@@ -149,7 +152,7 @@ Prof. Jeffery Steinfeld
 Climate
 {{< tdclose >}}
 {{< tdopen >}}
-Session 1.5 handout ([PDF]({{< baseurl >}}/resources/session_1_5))
+Session 1.5 handout ({{% resource_link b79e451d-3079-a970-fd61-40e1f9229e0f "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -302,7 +305,7 @@ A systems perspective
 Practicum on public speaking
 {{< tdclose >}}
 {{< tdopen >}}
-Public speaking presentation ([PDF]({{< baseurl >}}/resources/prac_on_pub_spea))
+Public speaking presentation ({{% resource_link d08f5bef-d115-8795-c1f6-a031fdc5268d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  

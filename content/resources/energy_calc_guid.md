@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Lecture slides with guidelines on using the personal energy calculator.
-file: /courses/5-92-energy-environment-and-society-spring-2007/6ff8038e992093b56c995d991264cb12_energy_calc_guid.pdf
+file: /ol-ocw-studio-app/courses/5-92-energy-environment-and-society-spring-2007/6ff8038e992093b56c995d991264cb12_energy_calc_guid.pdf
+file_size: 171168
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
