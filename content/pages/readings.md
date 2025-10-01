@@ -47,4 +47,4 @@ Excerpts from the following text books will also be assigned:
 
 Fenn, J. B. _Engines, Energy, and Entropy: A Primer_. San Francisco, CA: W.H. Freeman and Company, 1982. ISBN: 9780716712817.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262201537) Tester, J. W., E. M. Drake, M. J. Driscoll, M. W. Golay, and W. A. Peters. [_Sustainable Energy: Choosing Among Options_](https://mitpress.mit.edu/9780262201537). Cambridge, MA: MIT Press, 2005. ISBN: 9780262201537.
+{{% resource_link "8fdef9a7-acbd-4965-b6a6-4c81cc8665eb" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Tester, J. W., E. M. Drake, M. J. Driscoll, M. W. Golay, and W. A. Peters. {{% resource_link "8fdef9a7-acbd-4965-b6a6-4c81cc8665eb" "_Sustainable Energy: Choosing Among Options_" %}}. Cambridge, MA: MIT Press, 2005. ISBN: 9780262201537.
