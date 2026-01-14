@@ -11,32 +11,32 @@ General Links
 -------------
 
 Energy, Environment, and Society is one of the classes at MIT focusing on energy. To learn more about other courses offered by MIT with energy themes, follow this link:  
-{{% resource_link "2a83f177-b2dd-4245-8bcb-a273059f32db" "EnergyClasses at MIT" %}}
+[EnergyClasses at MIT](http://mitei.mit.edu/education/energy-classes)
 
 This class is also part of the enviroClasses database, a list of courses offered by MIT that specifically address environmental themes. To learn more about these courses, follow this link:  
-{{% resource_link "20c492ab-ccb5-4afa-b6cd-4c836ddfef3d" "EnviroClasses at MIT" %}}
+[EnviroClasses at MIT](https://ehs.mit.edu/)
 
-MIT Energy Initiative (MITEI) {{% resource_link "a4158e62-f16a-424c-a63e-45855146de20" "Campus Energy Task Force and Programs" %}}
+MIT Energy Initiative (MITEI) [Campus Energy Task Force and Programs](http://web.mit.edu/mitei/campus/index.html)
 
-MIT Energy Initiative (MITEI) {{% resource_link "dce7265d-2dd6-4ff9-9041-c6eda1da5930" "Education Activities" %}}
+MIT Energy Initiative (MITEI) [Education Activities](http://web.mit.edu/mitei/education/index.html)
 
-{{% resource_link "c584d073-bc95-4edc-90b5-a1aaff1b5346" "Resources for Students in Energy and the Environment" %}}
+[Resources for Students in Energy and the Environment](http://web.mit.edu/urop/resources/index.html)
 
-{{% resource_link "41e0b2fe-7827-4b36-b4a1-91b353095dca" "United Nations Intergovermnental Panel on Climate Change" %}}
+[United Nations Intergovermnental Panel on Climate Change](http://www.ipcc.ch/)
 
 [22.081J / 2.650J / 10.291J / 1.818J / 2.65J / 10.391J / 11.371J / 22.811J / ESD.166J](/courses/22-081j-introduction-to-sustainable-energy-fall-2010) Introduction to Sustainable Energy
 
 Class Links
 -----------
 
-{{% resource_link "c9858d14-48a0-4ee7-afed-9598573324df" "City of Cambridge Climate Action Plan" %}}
+[City of Cambridge Climate Action Plan](http://www.cambridgema.gov/CDD/climateandenergy/climatechangeplanning.aspx)
 
-{{% resource_link "55120dd1-94c7-4705-8a0c-8e35af1a49b0" "Bioenergy Conversion Factors" %}} 
+[Bioenergy Conversion Factors](https://content.ces.ncsu.edu/conversion-factors-for-bioenergy) 
 
-{{% resource_link "32d98c4a-8ad4-4311-963c-e6c42209be26" "Solar Savings Estimator" %}}
+[Solar Savings Estimator](http://www.recsolar.com/solar-savings-estimator)
 
-Initial Report of the Energy Research Council ({{% resource_link "e3787596-3578-447d-84e0-54053dd4dd0d" "PDF - 2.4 MB" %}})
+Initial Report of the Energy Research Council ([PDF - 2.4 MB](http://web.mit.edu/mitei/about/erc-report-final.pdf))
 
-{{% resource_link "69925954-58bc-4e60-91ab-b4d1caa5a7c2" "Energy Information Administration" %}}
+[Energy Information Administration](http://www.eia.doe.gov/)
 
-{{% resource_link "81600365-26bf-4396-a315-1c9773427ae5" "NOAA Carbon Tracker" %}}
+[NOAA Carbon Tracker](http://www.esrl.noaa.gov/gmd/ccgg/carbontracker/)
